@@ -26,7 +26,7 @@ const Hero = () => {
           </div>
         ))}
         <button className="bg-[#F26522] text-white px-6 py-2 rounded-full hover:bg-[#E85A1F] transition">
-          Batafsil ma'lumot
+          <a href="#aloqa">Batafsil ma'lumot</a>
         </button>
       </div>
 
